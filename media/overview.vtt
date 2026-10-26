@@ -2,28 +2,37 @@ WEBVTT
 
 
 00:00:00.000 --> 00:00:20.000
-Rehearse before execute — A degraded UAV still has a choice.
+Three recovery actions can have different consequences.
 
 00:00:20.000 --> 00:00:40.000
-One state. Three virtual futures. — Move trial execution into the digital twin.
+Observe, synchronize, rehearse, evaluate, and execute one action.
 
 00:00:40.000 --> 00:01:00.000
-Recorded rehearsal and execution — Estimated event alignment · shared timeline · identical 0.5x playback
+Existing simulator and physical recordings; estimated event alignment.
 
 00:01:00.000 --> 00:01:20.000
-A shared normal-dynamics evaluator — Learn nominal behaviour. Freeze. Compare.
+A frozen normal-dynamics evaluator compares candidate responses.
 
 00:01:20.000 --> 00:01:40.000
-Reference and consequences work together — J = nominal cost + severity consistency + action bias.
+Combine candidate-response costs with flight degradation, then select the minimum cost.
 
 00:01:40.000 --> 00:02:00.000
-RQ1 · Does the twin represent flight? — Compare responses and distributions.
+Recorded response comparisons support variable-dependent agreement.
 
-00:02:00.000 --> 00:02:20.000
-RQ2 · How does evidence affect selection? — 189 replay records · 9 degradation scenarios.
+00:02:00.000 --> 00:02:15.000
+92.06% recovery-action agreement; this is distinct from measured recovery outcomes.
 
-00:02:20.000 --> 00:02:40.000
-Physical candidate execution — Return and Land · action-relative video and logged height
+00:02:15.000 --> 00:02:42.000
+Late-mission cases: Continue, Return, and Land under mild, moderate, and severe faults.
 
-00:02:40.000 --> 00:03:00.000
-Observe → rehearse → evaluate → execute — Inspect consequences before choosing a response.
+00:02:42.000 --> 00:03:04.000
+Ten mild-fault trials per strategy: 96.7% versus 36.1–37.7% progress; both recover in all ten trials.
+
+00:03:04.000 --> 00:03:14.000
+Five seconds of collection plus 32.08 ms median overhead; physical actuation delay is not measured.
+
+00:03:14.000 --> 00:03:29.000
+Existing real-flight recordings illustrate the dynamics of recovery manoeuvres.
+
+00:03:29.000 --> 00:03:36.000
+Rehearse before execute: retain recoverable missions and evaluate intervention consequences.
